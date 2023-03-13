@@ -41,4 +41,4 @@ jobs:
           app-name: 'pilotdev-managerial'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9556220845234FDDA4724F87EC3DEBA4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D471412D71214DB3A49EB36E32A6C4A3 }}
